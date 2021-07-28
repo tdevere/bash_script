@@ -7,7 +7,7 @@
 ### Step 2. Add a bash script file named appcenter-pre-build.sh to the root of project (Example: ScriptTest.Android)
 ![](/docs/img/vs_prebuild_script_location.png?raw=true)
 
-### Step 3. Add this code to the bash file
+### Step 3. Add this code to the bash file: [Dynamic_Package_Name_Selection_appcenter-pre-build.sh](/scripts/Dynamic_Package_Name_Selection_appcenter-pre-build.sh)
 
 ```
 #!/usr/bin/env bash
