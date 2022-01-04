@@ -76,4 +76,5 @@ Get_Branch_Configuration $Branch $Owner_Name $App_Name $AppCenterAuthToken true
 
 Set__New_Branch_Configuration "NewFeature" $Owner_Name $App_Name $AppCenterAuthToken
 
-Set__Existing_Branch_Configuration "NewFeature" $Owner_Name $App_Name $AppCenterAuthToken $(cat $setbranchconfigFilePath)
+#ToDo: This Method is not working
+#Set__Existing_Branch_Configuration "NewFeature" $Owner_Name $App_Name $AppCenterAuthToken $(cat $setbranchconfigFilePath)
