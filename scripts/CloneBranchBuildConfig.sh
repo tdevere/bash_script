@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-AppCenterAuthToken="5755c9b2e21cc8c5019930c70ed6413a399034c3"
+AppCenterAuthToken=""
 Branch="Master"
 Owner_Name="Examples"
 App_Name="Android_Xamarin"
