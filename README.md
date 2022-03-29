@@ -10,4 +10,5 @@
 * ToDo: Add Update existing build configuration
 
 [Remove Projects from Mulitple Solution Files ](/scripts/Remove_Projects_From_Solution.sh)
-* [Expanded Sample](https://github.com/tdevere/AppCenterSupportDocs/blob/main/Build/error_MSB4057_The_target_IsProjectRestoreSupported_does_not_exist_in_the_project.md#workaround)
+* In the case you have more than one solution file and still need to remove projects to improve build performance for Xamarin apps, take a look at this updated sample.
+* [Original Sample](https://github.com/tdevere/AppCenterSupportDocs/blob/main/Build/error_MSB4057_The_target_IsProjectRestoreSupported_does_not_exist_in_the_project.md#workaround)
