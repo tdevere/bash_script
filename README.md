@@ -8,3 +8,5 @@
 * Example bash script to pull/set the build configuration from App Center
 * Example on how to modify the build configuration to exclude distribution features (if those existed in the origin build configuration)
 * ToDo: Add Update existing build configuration
+[Remove Projects from Mulitple Solution Files ](/scripts/Remove_Projects_From_Solution.sh)
+* [Expanded Sample](https://github.com/tdevere/AppCenterSupportDocs/blob/main/Build/error_MSB4057_The_target_IsProjectRestoreSupported_does_not_exist_in_the_project.md#workaround)
